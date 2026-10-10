@@ -1,4 +1,4 @@
-('/home/linux/Projects/python/git/build/ginux/PYZ-00.pyz',
+('/home/linux/Projects/ginux/build/ginux/PYZ-00.pyz',
  [('__future__',
    '/home/linux/.local/share/mise/installs/python/3.14.8/lib/python3.14/__future__.py',
    'PYMODULE'),
